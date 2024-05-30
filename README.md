@@ -1,2 +1,0 @@
-# rdrwed
-Proyecto PW
